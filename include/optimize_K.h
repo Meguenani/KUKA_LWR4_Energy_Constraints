@@ -1,0 +1,2 @@
+double optimize_K(Eigen::Matrix<double, 7, 1> tau_min, Eigen::Matrix<double, 7, 1> tau_max, double m_eq_7_j, Eigen::Matrix<double, 1, 7> J_70_C_proj, double Eta_proj);
+//double optimize_X_ddot(Eigen::Matrix<double, 7, 1> tau_min, Eigen::Matrix<double, 7, 1> tau_max, double m_eq_7_j, Eigen::Matrix<double, 1, 7> J_70_C_proj, double Eta_proj_C);
